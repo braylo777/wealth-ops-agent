@@ -1,0 +1,12 @@
+{
+  "note": "SYNTHETIC CRM/custodian data, 50 seeds x 11 planted errors",
+  "planted": 550,
+  "found": 550,
+  "tp": 550,
+  "precision": 1,
+  "recall": 1,
+  "residualAfterApprove": 100,
+  "escalations": 100,
+  "misses": [],
+  "fps": []
+}
